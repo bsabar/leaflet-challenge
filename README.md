@@ -1,1 +1,2 @@
-# leaflet-challenge
+# USGS Data Visualization Project
+
